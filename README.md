@@ -10,3 +10,5 @@
   - Gender-Fluid Flag
   - Intersex Flag
   - Agender Flag
+  - Aromantic Flag
+  - Demisexual Flag
