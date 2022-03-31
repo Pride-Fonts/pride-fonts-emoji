@@ -12,3 +12,4 @@
   - Agender Flag
   - Aromantic Flag
   - Demisexual Flag
+  - Greysexual Flag
