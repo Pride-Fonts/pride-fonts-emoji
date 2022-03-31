@@ -24,3 +24,7 @@ useless emojis that nobody uses so it wont be so bad.
 
 ## Font License
 All built fonts are under SIL Open Font License, version 1.1.
+
+## Credits
+All credit for the original noto emojis goes to google.
+All credit for the pride flags is to joypixels.
