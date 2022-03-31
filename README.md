@@ -22,6 +22,8 @@ NOTE: The transgender, and rainbow flag are not patched in as most fonts include
 Basically since unicode controls everything, we have to remove other emojis and replace them. Sadly this removes other emojis, but we try to only remove
 useless emojis that nobody uses so it wont be so bad.
 
+## Building Fonts
+
 ## Font License
 All built fonts are under SIL Open Font License, version 1.1.
 
