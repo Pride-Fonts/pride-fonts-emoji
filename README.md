@@ -1,6 +1,9 @@
 # Pride Fonts Emoji
 A fork of the noto-emoji font that patches in more pride flags than default.
 
+## About
+For more info about this project, and download links visit the [homepage](https://pride-emoji.interfiber.dev)
+
 ## Completed items
 NOTE: The transgender, and rainbow flag are not patched in as most fonts include them.
   - Lesbian Flag
